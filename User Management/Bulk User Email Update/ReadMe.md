@@ -1,6 +1,7 @@
 # New Relic Bulk User Email Update
 
-***NOTE: this code is meant to be a working example and not a direct solution for all use-cases. This code is not maintained or supported by New Relic and any/all outcomes of this script must be the sole responsibility of those running it.***
+<a href="https://opensource.newrelic.com/oss-category/#example-code"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/newrelic/opensource-website/raw/main/src/images/categories/dark/Example_Code.png"><source media="(prefers-color-scheme: light)" srcset="https://github.com/newrelic/opensource-website/raw/main/src/images/categories/Example_Code.png"><img alt="New Relic Open Source example project banner." src="https://github.com/newrelic/opensource-website/raw/main/src/images/categories/Example_Code.png"></picture></a>
+
 
 This Python script allows you to update the email addresses of one or multiple users in your New Relic account using the New Relic's Nerdgraph API. Please see further documentation on this API here: https://docs.newrelic.com/docs/apis/nerdgraph/examples/nerdgraph-manage-users/
 
